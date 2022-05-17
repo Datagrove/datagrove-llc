@@ -1,0 +1,16 @@
+{
+  "name": "dg1",
+  "version": "1.0.0",
+  "description": "Datagrove ",
+  "main": "index.js",
+  "author": "Datagrove",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.22.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
