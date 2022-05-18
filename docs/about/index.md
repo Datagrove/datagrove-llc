@@ -10,7 +10,7 @@ As a startup we always want to remember our roots and thus our name was created:
 ## The Datagrove
 The Datagrove ecosystem is designed to grow over time just like the trees from which we draw our inspiration. The Datagrove “root system” is our unique data management that is designed for security, traceability, and end-user invisibility. The system runs in the background keeping the whole tree nourished and thriving. From those roots we are growing product branches that solve real world problems. 
 
-## Our Team
+<!-- ## Our Team
 Jim Hurd, Lead Programmer
 
 |<div class="table-col-one" style="width: 150px"><img src="/jh.jpeg" alt="Jim Hurd" width="150" style="border-radius:5px"/></div>|<div class="table-col-two" style="width: 500px">[Jim Hurd](https://twitter.com/imoldfella), Programmer<br /><strong>_Wicked old programmer who learned on teletype machines and Radio Shack TRS-80 (Google it!). Still learning and still building code for the next generation. PL and Database nerd, crypto aficionado._</strong></div>     |
@@ -20,7 +20,7 @@ Jim Hurd, Lead Programmer
 :-------------------------------: | :-------------------:
 
 |<div class="table-col-one" style="width: 150px"><img src="" alt="Meagan Smith" width="150" style="border-radius:5px"/></div>|<div class="table-col-two" style="width: 500px">[Meagan Smith](https://twitter.com/imoldfella), Junior Programmer<br /><strong>_Add bio here_</strong></div>     |
-:-------------------------------: | :-------------------:
+:-------------------------------: | :-------------------: -->
 
 
 ## Our Partners

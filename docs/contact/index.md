@@ -1,8 +1,8 @@
 <div class="table-wrapper" markdown="block">
 
-# Let's Connect
+# Contact
 
-## Contact
+## Let's Connect!
 _Add a form here_
 
 ## Follow 
