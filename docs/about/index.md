@@ -2,15 +2,13 @@
 
 # About Datagrove
 
-Datagrove products are all about making things easier, more efficient, more secure while taking into consideration our impact on the world around us. Trees inspire us in many ways, tree structures represent an efficient method of data storage and even small groups of trees (groves!) can grow to be mighty forests.
+Datagrove products are all about making things easier, more efficient, and more secure while taking into consideration our impact on the world around us. Trees inspire us in many ways - tree structures represent an efficient method of data storage and even small groups of trees (groves!) can grow to be mighty forests.
 
 ## Our Name
-As a startup we always want to remember our roots and thus our name was created, Datagrove. Efficiency, sustainable growth, and standing the test of time.
+As a startup we always want to remember our roots and thus our name was created: Datagrove. Efficiency, sustainable growth, and standing the test of time.
 
 ## The Datagrove
 The Datagrove ecosystem is designed to grow over time just like the trees from which we draw our inspiration. The Datagrove “root system” is our unique data management that is designed for security, traceability, and end-user invisibility. The system runs in the background keeping the whole tree nourished and thriving. From those roots we are growing product branches that solve real world problems. 
-
-Our first product branch looks to tackle the compliance and management overhead involved in homeschooling throughout the United States. Our SchoolTree product simplifies the process and alleviates burden on both administrators and homeschooling families providing an end to end service that is fast, easy, and efficient letting schools and families focus on what matters most - the best education for every student.
 
 ## Our Team
 Jim Hurd, Lead Programmer
@@ -27,7 +25,7 @@ Jim Hurd, Lead Programmer
 
 ## Our Partners
 
-Our partner, [Data Grove Costa Rica](https://datagrovecr.com/), is expanding Datagrove’s mission beyond the borders of the US, extending our mission to build great software that does good and doing our part to contribute to the pura vida for ticos and beyond!
+Our partner, [Data Grove Costa Rica](https://datagrovecr.com/), is expanding Datagrove’s mission beyond the borders of the US, extending our mission to build great software that does good and doing our part to support local innovation and software development.
 
 
 </div>

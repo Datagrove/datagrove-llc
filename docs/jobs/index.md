@@ -5,6 +5,7 @@
 ## Working at Datagrove
 
 ## Open Roles
+DatagroveCR is currently recruiting for interns. Applicants must be enrolled in a university in Costa Rica. Fine more information at [DatagroveCR](https://datagrovecr.com/jobs/).
 
 ## Continuous Recruitment
 Think we sound like your kind of people? Even if we don’t have any open roles listed or your experience or expertise doesn’t match an open position we invite you to reach out to us. [Tell us about yourself](https://twitter.com/datagrovecr) and why you think Datagrove is the right fit for you!
