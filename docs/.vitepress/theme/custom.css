@@ -1,8 +1,9 @@
 :root {
     /* --c-brand: #3D5919; */
-    --c-brand: #588124;
-    /* --c-brand-light: #50751f; */
-    --c-brand-light: #195955;
+    /* --c-brand: #183d59; */
+    --c-brand: #6D8252;
+    --c-brand-light: #183d59;
+    /* --c-brand-light: #195955; */
 }
 
 @media only screen and (max-width: 640px) {
