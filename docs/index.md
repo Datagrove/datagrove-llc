@@ -3,10 +3,10 @@ home: true
 
 heroImage: /DGCR_NT.png
 heroAlt: Logo image
-heroText: Better World Software
+heroText: Datagrove
 tagline: Developing meaningful software that creates the world we want to live in.
-# actionText: We are Hiring
-# actionLink: /jobs/
+actionText: Learn More
+actionLink: /about/
 # features:
 # - title: Learn
 #   details: Come learn with us. We are learning how to create the software that the world needs right now.
