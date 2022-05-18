@@ -6,8 +6,8 @@
     <img src="/DGCR.png" alt="Datagrove logo" />
 </p>
 
-<p align="center">
+<h4 align="center">
     <img src="/twitter_blue.png" alt="twitter icon" width="50" />Reach us on Twitter - our DMs are always open!
-</p>
+</h4>
 
 </div>
