@@ -7,7 +7,7 @@
 </p>
 
 <h4 align="center">
-    <img src="/twitter_blue.png" alt="twitter icon" width="50" />Reach us on Twitter - our DMs are always open!
+    <img src="/twitter_blue.png" alt="twitter icon" width="50"/>Reach us on <a href="https://twitter.com/datagrovecr">Twitter</a> - our DMs are always open!
 </h4>
 
 </div>

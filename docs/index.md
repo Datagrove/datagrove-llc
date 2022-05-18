@@ -4,7 +4,7 @@ home: true
 heroImage: /DGCR.png
 heroAlt: Logo image
 heroText: Datagrove
-tagline: Developing meaningful software that creates the world we want to live in.
+tagline: Software that does good
 actionText: Learn More
 actionLink: /about/
 # features:
