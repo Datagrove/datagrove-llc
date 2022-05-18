@@ -4,6 +4,7 @@
     --c-brand: #6D8252;
     --c-brand-light: #183d59;
     /* --c-brand-light: #195955; */
+    --font-family-base: sans-serif;
 }
 
 @media only screen and (max-width: 640px) {
