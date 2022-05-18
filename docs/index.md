@@ -1,7 +1,7 @@
 ---
 home: true
 
-heroImage: /DGCR_NT.png
+heroImage: /DGCR.png
 heroAlt: Logo image
 heroText: Datagrove
 tagline: Developing meaningful software that creates the world we want to live in.

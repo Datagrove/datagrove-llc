@@ -1,9 +1,13 @@
 <div class="table-wrapper" markdown="block">
 
 # Contact
-Hit us up on Twitter - our DMs are always open!
+
+[<img src="/twitter_blue.png" alt="twitter icon" width="50"/>](https://twitter.com/datagrovecr) Reach us on Twitter - our DMs are always open!
+
 <br>
 
-[<img src="/twitter.png" alt="twitter icon" width="50"/>](https://twitter.com/datagrovecr) 
+<p align="center">
+    <img src="/DGCR.png" alt="Datagrove logo" />
+</p>
 
 </div>
