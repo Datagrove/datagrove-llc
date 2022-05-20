@@ -10,6 +10,8 @@ As a startup we always want to remember our roots and thus our name was created:
 ## <img src="/DGCR.png" alt="Datagrove logo" style="width: 35px"/> The Datagrove
 The Datagrove ecosystem is designed to grow over time just like the trees from which we draw our inspiration. The Datagrove “root system” is our unique data management that is designed for security, traceability, and end-user invisibility. The system runs in the background keeping the whole tree nourished and thriving. From those roots we are growing product branches that solve real world problems. 
 
+Our current product is currently in stealth mode, but feel free to contact us to learn more. Want to follow along? Join our community on [Twitter](https://twitter.com/datagrovecr).
+
 <!-- ## Our Team
 Jim Hurd, Lead Programmer
 

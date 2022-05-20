@@ -5,8 +5,9 @@ heroImage: /DGCR.png
 heroAlt: Logo image
 heroText: Datagrove
 tagline: Software that does good
-actionText: Learn More
-actionLink: /about/
+# actionText: Learn More
+# actionLink: /about/
+
 # features:
 # - title: Learn
 #   details: Come learn with us. We are learning how to create the software that the world needs right now.
@@ -16,3 +17,15 @@ actionLink: /about/
 #   details: You will be surrounded by people who want to learn and want to serve, just like you!
 footer:  Copyright © 2022 Datagrove, Inc.
 ---
+
+<div style="text-align:center">
+<button class="home-button">
+    <a href="https://twitter.com/datagrovecr"><p>About Us</p></a>
+</button>
+
+<button class="home-button">
+    <a href="https://twitter.com/datagrovecr"><p>Follow and Connect</p></a>
+</button>
+</div>
+
+

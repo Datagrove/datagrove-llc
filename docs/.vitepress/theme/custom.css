@@ -7,6 +7,23 @@
     --font-family-base: sans-serif;
 }
 
+.home-button {
+    background-color: #6D8252;
+    border-radius: 5%;
+    border: none;
+    margin: 1% 1% 5% 1%;
+    padding: 0 2% 0 2%;
+}
+
+.home-button:hover {
+    background-color: #183d59;
+}
+
+.home-button p {
+    color: whitesmoke;
+    font-size: large;
+}
+
 @media only screen and (max-width: 640px) {
     .table-wrapper {
         /* background-color: yellow; */
@@ -32,4 +49,6 @@
         max-width: 100px;
         height: auto;
     }
+
+
 }
