@@ -1,6 +1,7 @@
 ---
 home: true
 
+# title: Datagrove Title
 heroImage: /DGCR.png
 heroAlt: Logo image
 heroText: Datagrove
