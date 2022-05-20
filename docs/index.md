@@ -20,7 +20,7 @@ footer:  Copyright © 2022 Datagrove, Inc.
 
 <div style="text-align:center">
 <button class="home-button">
-    <a href="https://twitter.com/datagrovecr"><p>About Us</p></a>
+    <a href="/about/"><p>About Us</p></a>
 </button>
 
 <button class="home-button">
