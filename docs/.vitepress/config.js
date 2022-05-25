@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    description: 'Software That Does Good',
+    description: 'Building Software That Does Good',
     title: 'Datagrove',
     base: '/',
     themeConfig: {

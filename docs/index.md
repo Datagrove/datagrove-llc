@@ -5,7 +5,7 @@ home: true
 heroImage: /DGCR.png
 heroAlt: Logo image
 heroText: Datagrove
-tagline: Software that does good
+tagline: Building software that does good
 # actionText: Learn More
 # actionLink: /about/
 
