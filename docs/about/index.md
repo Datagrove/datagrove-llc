@@ -31,3 +31,12 @@ Our partner, [Data Grove Costa Rica](https://datagrovecr.com/), is expanding Dat
 
 
 </div>
+
+<br>
+
+<div style="text-align:center">
+    <p>
+        <a href="/terms/">Terms and Conditions</a>
+        | Copyright © 2022 Datagrove, Inc.
+    </p>
+</div>

@@ -11,3 +11,14 @@
 </h4>
 
 </div>
+
+<br>
+<br>
+<br>
+
+<div style="text-align:center">
+    <p>
+        <a href="/terms/">Terms and Conditions</a>
+        | Copyright © 2022 Datagrove, Inc.
+    </p>
+</div>
