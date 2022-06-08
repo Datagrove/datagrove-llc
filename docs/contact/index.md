@@ -3,11 +3,13 @@
 # Contact
 
 <p align="center">
-    <img src="/DGCR.png" alt="Datagrove logo" />
+    <img src="/circle_logo.png" alt="Datagrove logo" style="height: 300px;" />
 </p>
 
 <h4 align="center">
-    Reach us on <a href="https://twitter.com/datagrovecr">Twitter</a> - our DMs are always open!   <img src="/twitter_blue.png" alt="twitter icon" width="25"/>
+    Reach us on <a href="https://twitter.com/datagrovecr">Twitter</a> - our DMs are always open!   
+    <img src="/twitter_blue.png" alt="twitter icon" width="25" class="blue-twitter"/>
+    <img src="/twitter_48.png" alt="twitter icon" width="25" class="green-twitter"/>
 </h4>
 
 </div>

@@ -2,7 +2,7 @@
 home: true
 
 # title: Datagrove Title
-heroImage: /DGCR.png
+heroImage: /circle_logo.png
 heroAlt: Logo image
 heroText: Datagrove
 tagline: Building software that does good
@@ -26,7 +26,7 @@ tagline: Building software that does good
 </button>
 
 <button class="home-button">
-    <a href="https://twitter.com/datagrovecr"><p>Follow and Connect</p></a>
+    <a href="https://twitter.com/datagrovecr" target="_blank"><p>Follow and Connect</p></a>
 </button>
 </div>
 
