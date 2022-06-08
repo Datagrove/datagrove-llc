@@ -2,8 +2,12 @@
     --font-family-base: sans-serif;
 }
 
-.page, .home {
+.page, .home, body {
     background-color: var(--background-color-primary);
+}
+
+header .nav-bar {
+    background-color: red;
 }
 
 .home-button {
@@ -65,9 +69,9 @@
         --c-white: #C3C3C3;
         --c-black: #000000;
         /* --c-brand-light: #2BAE66FF; */
+        --c-bg: #C3C3C3;
         --c-brand-light: #0d98bb;
         --c-brand: #3D5919;
-        --accent-color: red;
         --background-color-primary: #f4f2f2;
         --text-color-light: #ddd;
         /* --c-brand: #195955; */
@@ -92,6 +96,7 @@
       --c-text: #ffffff;
       --c-text-light: #C3C3C3;
       --background-color-primary: #15202B;
+      --c-bg: #1c2c3c;
       /* --background-color-secondary: #2d2d30; */
       /* --background-color-secondary: red; */
       /* --accent-color: #3f3f3f; */
