@@ -7,15 +7,23 @@
 }
 
 .home-button {
-    background-color: #6D8252;
+    /* background-color: #6D8252; */
     border-radius: 5%;
     border: none;
     margin: 1% 1% 5% 1%;
     padding: 0 2% 0 2%;
+    background-color: var(--c-brand);
+    color: var(--text-color-light);
+    /* border: 3px solid black; */
+    border: none;
+    transition: transform .2s;
 }
 
 .home-button:hover {
-    background-color: #183d59;
+    /* background-color: #183d59; */
+    transform: scale(1.05);
+    background-color: var(--c-brand);
+    color: var(--text-color-light);
 }
 
 .home-button p {
