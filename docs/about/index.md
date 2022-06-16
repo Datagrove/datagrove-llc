@@ -31,12 +31,9 @@ Jim Hurd, Lead Programmer
 
 Our partner, [Data Grove Costa Rica](https://datagrovecr.com/), is expanding Datagrove’s mission beyond the borders of the US, extending our mission to build great software that does good and doing our part to support local innovation and software development.
 
-
 </div>
 
-<br>
-
-<div style="text-align:center">
+<div class="footer-text" >
     <p>
         <a href="/terms/">Terms and Conditions</a>
         | Copyright © 2022 Datagrove, Inc.

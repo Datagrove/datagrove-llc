@@ -1,7 +1,9 @@
 <div class="table-wrapper" markdown="block">
 
-# Contact
+<!-- # Contact -->
 
+<br>
+<br>
 <p align="center">
     <img src="/circle_logo.png" alt="Datagrove logo" style="height: 300px;" />
 </p>
@@ -12,15 +14,16 @@
     <img src="/twitter_48.png" alt="twitter icon" width="25" class="green-twitter"/>
 </h4>
 
-</div>
+<!-- <br>
+<br>
+<br>
+<br>
+<br> -->
 
-<br>
-<br>
-<br>
-
-<div style="text-align:center">
+<div class="footer-text" >
     <p>
         <a href="/terms/">Terms and Conditions</a>
         | Copyright © 2022 Datagrove, Inc.
     </p>
+</div>
 </div>
