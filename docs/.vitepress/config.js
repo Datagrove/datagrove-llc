@@ -15,7 +15,8 @@ export default defineConfig({
             { text: 'Contact', link: '/contact/' },
         ],
         sidebar: [
-        ]
+        ],
+        footer: false
     },
     // build: {
     //     rollupOptions: {

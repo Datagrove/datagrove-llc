@@ -16,7 +16,7 @@ tagline: Building software that does good
 #   details: We don't make games, we don't sell ads. We build software to create the world we want to live in.
 # - title: Family
 #   details: You will be surrounded by people who want to learn and want to serve, just like you!
-footer:  Copyright © 2022 Datagrove, Inc.
+footer:  null
 
 ---
 
@@ -30,8 +30,8 @@ footer:  Copyright © 2022 Datagrove, Inc.
 </button>
 </div>
 
-<div class="footer-text">
-    <p>
+<div class="footer-text-div" id="home-footer-div">
+    <p class="footer-text">
         <a href="/terms/">Terms and Conditions</a>
         | Copyright © 2022 Datagrove, Inc.
     </p>
