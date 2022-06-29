@@ -4,6 +4,7 @@ Website for [Datagrove INC](https://datagrove.com/)
 The Datagrove main website is built using VitePress and Yarn.
 
 To install Yarn:
+Install yarn gloabally on your local computer with this command in the terminal:
 ```
 npm install --global yarn
 ```
