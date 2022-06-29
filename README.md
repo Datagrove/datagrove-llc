@@ -1,4 +1,4 @@
-# datagrove-main
+# Datagrove
 Website for [Datagrove INC](https://datagrove.com/)
 
 The Datagrove main website is built using VitePress and Yarn.
