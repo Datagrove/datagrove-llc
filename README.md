@@ -1,25 +1,30 @@
 # datagrove-main
 Website for [Datagrove INC](https://datagrove.com/)
 
-The Datagrove main website is built using VitePress.
+The Datagrove main website is built using VitePress and Yarn.
 
-To install locally:
+To install Yarn:
+```
+npm install --global yarn
+```
+
+To install datagrove-main locally:
 ```
 git clone https://github.com/datagrove/datagrove-main.git
 yarn install 
 ```
 
-To run locally:
+To run datagrove-main locally:
 ```
 yarn docs:dev
 ```
 
-To build for production:
+To build datagrove-main for production:
 ```
 yarn docs:build
 ```
 
-To deploy:
+To deploy to datagrove-main:
 The Datagrove website is hosted by Cloudflare, and any updates to the datagrovecr repo will deploy those updates to the website itself.
 ```
 git add .
