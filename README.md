@@ -3,11 +3,11 @@ Website for [Datagrove INC](https://datagrove.com/)
 
 The Datagrove main website is built using VitePress and Yarn.
 
-Ensure that Yarn is installed on your local computer:
+Ensure that Modern Yarn is installed on your local computer:
 ```
 yarn version
 ```
-[Yarn Documentation](https://classic.yarnpkg.com/en/docs/install#mac-stable)
+This should return a version greater than 1, if you have version 1.x.x then you have Yarn Classic installed. Install [Modern Yarn] (https://yarnpkg.com/getting-started/install)
 
 To install datagrove-main locally:
 ```
