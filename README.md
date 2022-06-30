@@ -7,7 +7,7 @@ Ensure that Modern Yarn is installed on your local computer:
 ```
 yarn version
 ```
-This should return a version greater than 1, if you have version 1.x.x then you have Yarn Classic installed. Install [Modern Yarn] (https://yarnpkg.com/getting-started/install)
+This should return a version greater than 1, if you have version 1.x.x then you have Yarn Classic installed. Install [Modern Yarn(https://yarnpkg.com/getting-started/install)
 
 To install datagrove-main locally:
 ```
