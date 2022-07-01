@@ -6,6 +6,7 @@ export default defineConfig({
     base: '/',
     themeConfig: {
         // Type is `DefaultTheme.Config`
+        logo: '/circle_logo.png',
         nav: [
             { text: 'Home', link: '/' },
             { text: 'About Us', link: '/about/' },
