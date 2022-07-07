@@ -10,7 +10,13 @@ export default defineConfig({
         nav: [
             { text: 'Home', link: '/' },
             { text: 'About Us', link: '/about/' },
-            { text: 'Solutions', link: '/solutions/' },
+            { 
+                text: 'Solutions', 
+                items:[
+                    {text: "Homeschool", link: '/pawpaw/' },
+                    //{text: "Transparency in Coverage", link: '/ironshop/'}
+                ]
+            },
             // { text: 'Blog', link: '/blog/' },
             // { text: 'Join Us', link: '/jobs/' },
             { text: 'Contact', link: '/contact/' },

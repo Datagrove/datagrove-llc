@@ -5,7 +5,7 @@ home: true
 heroImage: /circle_logo.png
 heroAlt: Logo image
 heroText: Datagrove
-tagline: Building software that does good
+tagline: Confident Data Sharing
 # actionText: Learn More
 # actionLink: /about/
 
