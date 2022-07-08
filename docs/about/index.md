@@ -17,7 +17,7 @@ Our current product is currently in stealth mode, but feel free to contact us to
 
 ## Our Partners
 
-Our partner, [Data Grove Costa Rica](https://datagrovecr.com/), is expanding Datagrove’s mission beyond the borders of the US, extending our mission to build great software that does good and doing our part to support local innovation and software development.
+Our partner, [Datagrove Costa Rica](https://datagrovecr.com/), is expanding Datagrove’s mission beyond the borders of the US, extending our mission to build great software that does good and doing our part to support local innovation and software development.
 
 </div>
 
