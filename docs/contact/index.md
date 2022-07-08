@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center">
-    Reach us on <a href="https://twitter.com/datagrovecr">Twitter</a> - our DMs are always open!   
+    Reach us on <a href="https://twitter.com/datagrove_us">Twitter</a> - our DMs are always open!   
     <img src="/twitter_blue.png" alt="twitter icon" width="25" class="blue-twitter"/>
     <img src="/twitter_48.png" alt="twitter icon" width="25" class="green-twitter"/>
 </h4>

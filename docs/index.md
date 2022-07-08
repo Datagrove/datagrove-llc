@@ -26,7 +26,7 @@ footer:  null
 </button>
 
 <button class="home-button">
-    <a href="https://twitter.com/datagrovecr" target="_blank"><p>Follow and Connect</p></a>
+    <a href="https://twitter.com/datagrove_us" target="_blank"><p>Follow and Connect</p></a>
 </button>
 </div>
 
