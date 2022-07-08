@@ -7,17 +7,36 @@
     /* height: 100%;
     height: 90vh; */
     /* border: 2px solid red; */
+    
 }
 
 .nav-bar {
     background-color: var(--bg-color-footer) !important;
 }
 
+div.VPNavBarAppearance.appearance {
+    display: none;
+}
 .table-wrapper, .home {
     /* border: 2px solid red; */
     height: 90vh;
     position: relative;
     margin-bottom: 300px;
+}
+
+.aside {
+    display: none !important;
+}
+
+.VPButton.medium.brand:hover {
+    background-color: var(--vp-button-brand-hover);
+    /* color: var(--vp-button-alt-text); */
+    border-color: var(--vp-button-brand-border);
+} 
+
+.VPButton.medium.alt:hover {
+    background-color: var(--vp-button-alt-hover);
+    color: var(--vp-button-brand-text);
 }
 
 .btn-footer-div {
@@ -51,36 +70,6 @@ footer, .page-footer {
     /* background-color: yellow; */
     height: 0px;
     display: none !important;
-}
-
-/* .home > .footer-text-div {
-    margin-left: 27.75%;
-    width: 100%;
-} */
-
-.home-button {
-    /* background-color: #6D8252; */
-    border-radius: 5%;
-    border: none;
-    margin: 1% 1% 5% 1%;
-    padding: 0 2% 0 2%;
-    background-color: var(--c-brand);
-    color: var(--text-color-light);
-    /* border: 3px solid black; */
-    border: none;
-    transition: transform .2s;
-}
-
-.home-button:hover {
-    /* background-color: #183d59; */
-    transform: scale(1.05);
-    background-color: var(--c-brand);
-    color: var(--text-color-light);
-}
-
-.home-button p {
-    color: whitesmoke;
-    font-size: large;
 }
 
 .footer-text {
@@ -124,16 +113,25 @@ footer, .page-footer {
 
 @media (prefers-color-scheme: light) {
     :root {
-        --c-white: #C3C3C3;
-        --c-black: #000000;
-        /* --c-brand-light: #2BAE66FF; */
-        --c-bg: #C3C3C3;
-        --c-brand-light: #0d98bb;
-        --c-brand: #3D5919;
+
         --background-color-primary: #f4f2f2;
+        --background-color-primary: white;
         --text-color-light: #ddd;
         --bg-color-footer: lightgray;
         /* --c-brand: #195955; */
+        --vp-home-hero-name-color: #588124;
+        --vp-c-text-1: #245881;
+        --vp-c-brand: #588124;
+
+        --vp-button-brand-bg: #588124;
+        --vp-button-brand-border: #588124;
+        --vp-button-brand-text: white;
+        --vp-button-brand-hover: #812458;
+
+        --vp-button-alt-bg: white;
+        --vp-button-alt-border: #588124;
+        --vp-button-alt-text: #588124;
+        --vp-button-alt-hover: #812458;
     }
 
     .green {
@@ -147,21 +145,26 @@ footer, .page-footer {
 
 @media (prefers-color-scheme: dark) {
     :root {
-  
-      --c-white: #15202B;
-      --c-black: #ffffff;
-      --c-brand: #588124;
-      --c-brand-light: #588124;
-      --c-text: #ffffff;
-      --c-text-light: #C3C3C3;
-      --background-color-primary: #15202B;
+      --background-color-primary: black;
       --c-bg: #15202B;
-      /* --background-color-secondary: #2d2d30; */
-      /* --background-color-secondary: red; */
-      /* --accent-color: #3f3f3f; */
+
       --accent-color: #588124;
       --text-primary-color: #ddd;
       --bg-color-footer: #223345;
+
+      --vp-home-hero-name-color: #588124;
+      --vp-c-text-1: whitesmoke;
+      --vp-c-brand: #73A92F;
+
+      --vp-button-brand-bg: #588124;
+      --vp-button-brand-border: #588124;
+      --vp-button-brand-text: white;
+      --vp-button-brand-hover: #812458;
+
+      --vp-button-alt-bg: white;
+      --vp-button-alt-border: #588124;
+      --vp-button-alt-text: #588124;
+      --vp-button-alt-hover: #812458;
     }
 
     .blue {

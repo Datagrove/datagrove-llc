@@ -1,12 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    description: 'Building Software That Does Good',
+    lang: 'en-US',
     title: 'Datagrove',
+    description: 'Building Software That Does Good',
     base: '/',
+
     themeConfig: {
-        // Type is `DefaultTheme.Config`
-        logo: '/circle_wide_bars.png',
+        sidebar: false,
         nav: [
             { text: 'Home', link: '/' },
             { text: 'About Us', link: '/about/' },
@@ -21,10 +22,37 @@ export default defineConfig({
             // { text: 'Join Us', link: '/jobs/' },
             { text: 'Contact', link: '/contact/' },
         ],
-        sidebar: [
-        ],
-        footer: false
-    },
+
+        footer: {
+            message: 'Released under the MIT license.',
+            copyright: "Copyright © 2022-present Datagrove"
+        }
+
+
+    }
+
+    // themeConfig: {
+    //     logo: '/circle_wide_bars.png',
+    //     nav: [
+    //         { text: 'Home', link: '/' },
+    //         { text: 'About Us', link: '/about/' },
+    //         { 
+    //             text: 'Solutions', 
+    //             items:[
+    //                 {text: "Homeschool", link: '/pawpaw/' },
+    //                 //{text: "Transparency in Coverage", link: '/ironshop/'}
+    //             ]
+    //         },
+    //         // { text: 'Blog', link: '/blog/' },
+    //         // { text: 'Join Us', link: '/jobs/' },
+    //         { text: 'Contact', link: '/contact/' },
+    //     ],
+    //     sidebar: false,
+    //     footer: {
+    //       message: 'test footer',
+    //       copyright: 'copyright message'
+    //     }
+    // },
     // build: {
     //     rollupOptions: {
     //         external: []
@@ -32,3 +60,8 @@ export default defineConfig({
     // }
 
 })
+
+// export interface Footer {
+//     message?: string
+//     copyright?: string
+// }

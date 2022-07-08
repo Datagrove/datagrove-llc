@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 <div class="table-wrapper" markdown="block">
 
 # About Datagrove
@@ -19,11 +23,4 @@ Our current product is currently in stealth mode, but feel free to contact us to
 
 Our partner, [Datagrove Costa Rica](https://datagrovecr.com/), is expanding Datagrove’s mission beyond the borders of the US, extending our mission to build great software that does good and doing our part to support local innovation and software development.
 
-</div>
-
-<div class="footer-text-div" >
-    <p class="footer-text">
-        <a href="/terms/">Terms and Conditions</a>
-        | Copyright © 2022 Datagrove, Inc.
-    </p>
 </div>

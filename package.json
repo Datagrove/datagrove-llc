@@ -6,7 +6,8 @@
   "author": "Datagrove",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^0.22.4"
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
