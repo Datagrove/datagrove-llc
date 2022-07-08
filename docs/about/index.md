@@ -1,7 +1,3 @@
----
-sidebar: false
----
-
 <div class="table-wrapper" markdown="block">
 
 # About Datagrove
