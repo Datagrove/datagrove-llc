@@ -46,7 +46,7 @@ div.VPNavBarAppearance.appearance {
     margin-bottom: 300px;
 }
 
-.aside, .VPFlyout.VPNavBarExtra.extra {
+.aside, .VPFlyout.VPNavBarExtra.extra, .VPNavBarAppearance.appearance, .VPNavScreenAppearance.appearance{
     display: none !important;
 }
 
