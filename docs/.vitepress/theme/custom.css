@@ -136,11 +136,11 @@ footer, .page-footer {
         /* --c-brand: #195955; */
     }
 
-    .green-twitter, .green-email {
+    .green {
         display: none;
     }
 
-    .blue-twitter, .blue-email {
+    .blue {
         display: inline;
     }
 }
@@ -164,11 +164,11 @@ footer, .page-footer {
       --bg-color-footer: #223345;
     }
 
-    .blue-twitter, .blue-email {
+    .blue {
         display: none;
     }
 
-    .green-twitter, .green-email {
+    .green {
         display: inline;
     }
 }
