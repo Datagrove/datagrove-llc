@@ -7,6 +7,8 @@ export default defineConfig({
     base: '/',
 
     themeConfig: {
+        logo: '/bright_green_circle.png',
+
         sidebar: false,
         nav: [
             { text: 'Home', link: '/' },
