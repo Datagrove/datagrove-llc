@@ -13,7 +13,7 @@ hero:
       text: Solutions
       link: /pawpaw/
     - theme: alt
-      text: About us
+      text: About Us
       link: /about/
     - theme: alt
       text: Connect
