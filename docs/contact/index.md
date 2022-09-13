@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="/bright_green_circle.png" alt="Datagrove logo" class="contact-logo"/>
+    <img src="/circle_wide_bars.svg" alt="Datagrove logo" class="contact-logo"/>
 </p>
 
 <div class="contact-div">

@@ -1,7 +1,7 @@
 ---
 layout: home
 
-heroImage: /bright_green_circle.png
+heroImage: /circle_wide_bars.svg
 
 hero:
   name: Datagrove
