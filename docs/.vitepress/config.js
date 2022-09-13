@@ -29,38 +29,7 @@ export default defineConfig({
             message: 'Released under the MIT license.',
             copyright: "Copyright © 2022-present Datagrove"
         }
-
-
     }
-
-    // themeConfig: {
-    //     logo: '/circle_wide_bars.png',
-    //     nav: [
-    //         { text: 'Home', link: '/' },
-    //         { text: 'About Us', link: '/about/' },
-    //         { 
-    //             text: 'Solutions', 
-    //             items:[
-    //                 {text: "Homeschool", link: '/pawpaw/' },
-    //                 //{text: "Transparency in Coverage", link: '/ironshop/'}
-    //             ]
-    //         },
-    //         // { text: 'Blog', link: '/blog/' },
-    //         // { text: 'Join Us', link: '/jobs/' },
-    //         { text: 'Contact', link: '/contact/' },
-    //     ],
-    //     sidebar: false,
-    //     footer: {
-    //       message: 'test footer',
-    //       copyright: 'copyright message'
-    //     }
-    // },
-    // build: {
-    //     rollupOptions: {
-    //         external: []
-    //     }
-    // }
-
 })
 
 // export interface Footer {

@@ -92,7 +92,7 @@ h2 a, p a, h4 a {
     
 }
 
-footer, .page-footer {
+.page-footer {
     /* background-color: yellow; */
     height: 0px;
     display: none !important;

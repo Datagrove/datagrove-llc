@@ -26,8 +26,8 @@ features:
     details: Building software that does good
 ---
 
-<script setup>
+<!-- <script setup>
     import Footer from "/components/Footer.vue"
 </script>
 
-<Footer />
+<Footer /> -->
