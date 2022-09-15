@@ -7,6 +7,20 @@ The Pawpaw app simplifies the homeschool compliance process and alleviates burde
 
 ## FAQs
 ### What is Pawpaw?
+Pawpaw is an app where homeschooling families can submit education documentation required by their state. Simply upload attendance records, curriculum outlines, and more, and automatically email them to the appropriate office. 
+
+### How much does Pawpaw cost?
+Pawpaw is completely free for homeschooling families! Download, login, and go!
+
+### Can I include multiple students in my Pawpaw account?
+You sure can! Adults can add multiple children to one Pawpaw account, making it easy to find all of your education information, all in one place.
+
+### Who can see my data?
+Only you! Privacy and security are very important to Datagrove. Your school district can view and download documentation that you choose to send, but no one else can see inside your account.
+
+### I usually submit paper documentation for my homeschoolers. Can I still use Pawpaw?
+Yep! Pawpaw allows you to take a photo or scan of paper documents so you can keep your paper process and still submit everything via email.
+
 ## [Our Model School](https://pawpaw.datagrove.com/)
 As part of building the pawpaw app we realized there was a need for a free and easy to use model (also known as an outline, scope and sequence or plan of instruction) that met the requirements for homeschool administrators and homeschool families. The model is designed to include the necessary learning objectives without dictating specific texts or courses. So no matter whether you are un-schooling, using boxed curriculum or building something of your own, you can use the model school to make compliance easy!
 
