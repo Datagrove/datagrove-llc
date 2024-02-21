@@ -16,7 +16,8 @@ export default defineConfig({
             { 
                 text: 'Solutions', 
                 items:[
-                    {text: "Homeschool", link: '/pawpaw/' },
+                    {text: "PawPaw - Homeschool", link: '/pawpaw/' },
+                    {text: "LearnGrove", link: '/learngrove/' },
                     //{text: "Transparency in Coverage", link: '/ironshop/'}
                 ]
             },
